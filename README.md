@@ -6,4 +6,4 @@ Since I was young, I always loved games and follow news about technology, but wh
 
 After I graduated, I was disappointed with my job and I have an opportunity to take a web development course. With that I learned HTML, CSS, JS, libraries and frameworks like react and typescript.
 
-Today, with all the knowledge that I have learned, I create my own projects, and participate in many others. Anyway, take a look and what I have done, and enjoy yourself.
+Today, with all the knowledge that I have learned, I create my own projects, and participate in many others. Anyway, take a look in what I have done, and enjoy yourself.
